@@ -30,7 +30,7 @@ Desarrollador de Software &amp; Técnico Electrónico
 ![Captura de la simulación](https://github.com/servandograterol-art/ServandoGraterol26-portafolio/blob/e6b4644506c951c68ac37face58c9775c2eb10f2/interfaz%20mano.JPG)
 
 ### Prototipo Físico
-![Foto del circuito armado](URL_DE_TU_IMAGEN_AQUÍ)
+![Foto del circuito armado][(URL_DE_TU_IMAGEN_AQUÍ)](https://github.com/servandograterol-art/ServandoGraterol26-portafolio/blob/8ed8cb067fcdbc6c13bec6caa1fc3b440a8d9be2/brazo.JPG)
 
 ---
 
