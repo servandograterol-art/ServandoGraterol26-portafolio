@@ -27,7 +27,7 @@ Desarrollador de Software &amp; Técnico Electrónico
 > Aquí puedes arrastrar las fotos de tus circuitos y capturas de pantalla de Proteus.
 
 ### Simulación en Proteus
-![Captura de la simulación](URL_DE_TU_IMAGEN_AQUÍ)
+![Captura de la simulación](https://github.com/servandograterol-art/ServandoGraterol26-portafolio/blob/e6b4644506c951c68ac37face58c9775c2eb10f2/interfaz%20mano.JPG)
 
 ### Prototipo Físico
 ![Foto del circuito armado](URL_DE_TU_IMAGEN_AQUÍ)
